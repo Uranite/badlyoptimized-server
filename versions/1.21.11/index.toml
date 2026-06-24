@@ -1,0 +1,154 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/yosbr/config/ferritecore.mixin.properties"
+hash = "1fbbea658d8af2a751857e70cf2d5930a24490cc4c24f8db9b49630a818b895c"
+
+[[files]]
+file = "config/yosbr/config/vmp.properties"
+hash = "170243bcea72030e12b4c7dfe82abd4b17413457d74fa2964a545e769c2791d6"
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "0084d142626c0a39835cf2c6abbafb5fc3d5cf5136117c7e658a8af0c3dc4568"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "e1b4cb1015dfe0e0cbe2da4fd30cd0948de757d08259cb5724e9448778e64449"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "2ccce9c28059ea90a5457771de06a69b0a2d1f06d48f8add48a38f1a2307da3c"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "816b735b2ad505476201800a99f527e61b392b712b9d20ca9edcce05f412fe87"
+metafile = true
+
+[[files]]
+file = "mods/floodgate.pw.toml"
+hash = "5e22a9a711566e3db69ea33c99e593ef03141d1476cffc099353e7851896c818"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "b22f1d052eee2810fda73d850dd6f425a1214965e03a5a9dada421abfe74603b"
+metafile = true
+
+[[files]]
+file = "mods/fsit.pw.toml"
+hash = "da116a22d1675229d5a1fc44597fabd09ae46c1d096ce1b0ae623ec790cf1d7d"
+metafile = true
+
+[[files]]
+file = "mods/fuji.pw.toml"
+hash = "07a71319381db217126d41bff9e598719f7347ded2991a8f2857126928cd942b"
+metafile = true
+
+[[files]]
+file = "mods/geyser.pw.toml"
+hash = "fa99525a794616e93b3d17e1959d5a0962709656377dc00c2c431134d44bdb7e"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "8f6e0157b42ba668c0ba9aa7eff94b3b91a8f58bcd357e574d70a7b160d4337c"
+metafile = true
+
+[[files]]
+file = "mods/leaves-be-gone.pw.toml"
+hash = "225c4d26ae5d2345591ce23340cdaf9009a46a1fc46a7cb054795cd8403efe56"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "8c7aec9e376eb3f10da62109594e1ac6b7bc92da8e9c080f8f8f5a736051f339"
+metafile = true
+
+[[files]]
+file = "mods/luckperms.pw.toml"
+hash = "0fcb21a2580ad82270c404aa36e042926a7f35b0151f785bd6c6afce23e6edc4"
+metafile = true
+
+[[files]]
+file = "mods/modernfix-mvus.pw.toml"
+hash = "496f7d1bad22abbde478ccf9fde458732afbc93ab9e5765d85f2501e23ce8db5"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "cd25851cbdaad2dd1957a8086ce54aa4bd3c45be75e1ba49168a54fafbd87898"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "d834a23dade08b30d08e58521d51800d6453e195a6e0af2b2b70b09b8d3199ee"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "4931a48b30837607a36b0cc7a2d40b32c83a4f7f02bf8a16dbf553e8bba7e0ab"
+metafile = true
+
+[[files]]
+file = "mods/scalablelux.pw.toml"
+hash = "936e9028071f4e49ecd551aadab4c161f9a7143764b4cc89f8077296bd8645a6"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "16a351dac4db6e5b8035f56090710a227d33482797ef5bcc09a367099304be74"
+metafile = true
+
+[[files]]
+file = "mods/skinsrestorer.pw.toml"
+hash = "662bf7b358b97eb46a9eede5a7e6c9db129ecdb2f707dead0532ba8a2312ae66"
+metafile = true
+
+[[files]]
+file = "mods/squaremap.pw.toml"
+hash = "8b17587d19d77d0fb343a075759c032474ebc32b941dcd0d2e48a6528736a18d"
+metafile = true
+
+[[files]]
+file = "mods/structure-layout-optimizer.pw.toml"
+hash = "e053f491047089bdce5b4479587f52ad190dc768f1ddf29dcc7541953b6a5a24"
+metafile = true
+
+[[files]]
+file = "mods/tabtps.pw.toml"
+hash = "bd15c00bb356382978301589215babfec16eb6d3791f8d47fe2eff722b17739c"
+metafile = true
+
+[[files]]
+file = "mods/viabackwards.pw.toml"
+hash = "f9e3dfccdc6fb1857218b884b54066edf24cd55c31bfb0de9039b3c8d4bf775c"
+metafile = true
+
+[[files]]
+file = "mods/viafabric.pw.toml"
+hash = "54f85fbfd7527f343b04b07130fb3fe59da27c8dfd631a875195452b2193fac6"
+metafile = true
+
+[[files]]
+file = "mods/viaversion.pw.toml"
+hash = "e5be4bb4a384739740aaca52f9afc634f2f8f670e00f86f749e28ecb239ce39b"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "9ce3767540efbf35e0a0c266040c9879efc9136ec59cd38e06e45b3c3c3e90e0"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
+metafile = true
+
+[[files]]
+file = "mods/zfastnoise.pw.toml"
+hash = "4a3ec78067094f39fc81a3673d75ee40191dfd961f6ff960f6b967c6fd712d1b"
+metafile = true
