@@ -1,23 +1,27 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/yosbr/config/EasyAuth/extended.conf"
+file = "config/modpack_defaults/config/DistantHorizons.toml"
+hash = "2104209850044a0be6fc4471765074ac192905a1d8da35d5f0460a5e6d1f0c85"
+
+[[files]]
+file = "config/modpack_defaults/config/EasyAuth/extended.conf"
 hash = "6c7fcc6f3695cb0427b7953bb168fc8764755b94f86556162d3371dc749da146"
 
 [[files]]
-file = "config/yosbr/config/Geyser-Fabric/config.yml"
+file = "config/modpack_defaults/config/Geyser-Fabric/config.yml"
 hash = "2a94874b2043b64a9c0af9c0d7ca3ceafae879e52746232b1ad6639742274839"
 
 [[files]]
-file = "config/yosbr/config/ferritecore.mixin.properties"
+file = "config/modpack_defaults/config/ferritecore.mixin.properties"
 hash = "1fbbea658d8af2a751857e70cf2d5930a24490cc4c24f8db9b49630a818b895c"
 
 [[files]]
-file = "config/yosbr/config/fuji/config.json"
+file = "config/modpack_defaults/config/fuji/config.json"
 hash = "fc50b918af7e01fed0c14cd3e5d2c398a1ee2a7652b8105886b18bf88a9d6d38"
 
 [[files]]
-file = "config/yosbr/config/vmp.properties"
+file = "config/modpack_defaults/config/vmp.properties"
 hash = "170243bcea72030e12b4c7dfe82abd4b17413457d74fa2964a545e769c2791d6"
 
 [[files]]
@@ -28,6 +32,11 @@ metafile = true
 [[files]]
 file = "mods/c2me-ocl.pw.toml"
 hash = "9f655bc1c411625f2de33c59ca61bc24a38ea82ea51c41efa7840ec77b43068f"
+metafile = true
+
+[[files]]
+file = "mods/configmanager.pw.toml"
+hash = "7c70b21d6bc0fa34c3a06c57aadeb42b2a4b94905ad05c147f6e6b040c24fe24"
 metafile = true
 
 [[files]]
@@ -178,11 +187,6 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "9ce3767540efbf35e0a0c266040c9879efc9136ec59cd38e06e45b3c3c3e90e0"
-metafile = true
-
-[[files]]
-file = "mods/yosbr.pw.toml"
-hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
 metafile = true
 
 [[files]]
