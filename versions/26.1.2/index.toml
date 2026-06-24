@@ -26,6 +26,11 @@ hash = "298bb7ba6652ce3664375e597c4a2e54510e840d22ac656fefc36096335c9202"
 metafile = true
 
 [[files]]
+file = "mods/c2me-ocl.pw.toml"
+hash = "5acd6c910da754601022afe74e53f081c978a780a1e20819c3574a18f24d5b4d"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "2cc32f353cd0653d2964a5ca20ba8d4059e19d3c4bd59832f9b14765fddbeee1"
 metafile = true
