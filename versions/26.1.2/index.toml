@@ -73,6 +73,11 @@ hash = "cd37520fbb14b8d5e9471d8c25324736e02dcf3be4b7c5df1699757b2264049f"
 metafile = true
 
 [[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "a24e0d27caebc57fd0ec83f262d96509c101c3213547a4cb0cd8ee96db70c0ce"
+metafile = true
+
+[[files]]
 file = "mods/luckperms.pw.toml"
 hash = "99811c67881579897393b3927dfb3edf708713adb5702fda8e231bfcb4c28abb"
 metafile = true
@@ -125,6 +130,16 @@ metafile = true
 [[files]]
 file = "mods/tabtps.pw.toml"
 hash = "f7b26f9c88f19037d8dec731aded04de513ead3f039d5ed94f5e12c414775d9f"
+metafile = true
+
+[[files]]
+file = "mods/tectonic.pw.toml"
+hash = "7ce768839a525e28d1207187f6269214c834be312d520d8cbda2a2c263ec1972"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "5d451fb0bab301ca1f7f99ae698e13b8c6827dda54704204cfe0e63b420e9cfa"
 metafile = true
 
 [[files]]

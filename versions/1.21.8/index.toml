@@ -128,6 +128,16 @@ hash = "4f1450528c5440f70360608ef1e26c38f4c161321fda5d907457b6d781bdbdda"
 metafile = true
 
 [[files]]
+file = "mods/tectonic.pw.toml"
+hash = "2226fd6f55dae108563d51495b90b6980212283b1c551967c4595e82428d261d"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "831c41448bccb5bb8f1f68a76321e7da7988b218e9694f432d952f98ac184640"
+metafile = true
+
+[[files]]
 file = "mods/viabackwards.pw.toml"
 hash = "f9e3dfccdc6fb1857218b884b54066edf24cd55c31bfb0de9039b3c8d4bf775c"
 metafile = true
