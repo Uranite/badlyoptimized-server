@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/yosbr/config/EasyAuth/extended.conf"
+hash = "6c7fcc6f3695cb0427b7953bb168fc8764755b94f86556162d3371dc749da146"
+
+[[files]]
+file = "config/yosbr/config/Geyser-Fabric/config.yml"
+hash = "2a94874b2043b64a9c0af9c0d7ca3ceafae879e52746232b1ad6639742274839"
+
+[[files]]
 file = "config/yosbr/config/ferritecore.mixin.properties"
 hash = "1fbbea658d8af2a751857e70cf2d5930a24490cc4c24f8db9b49630a818b895c"
 
