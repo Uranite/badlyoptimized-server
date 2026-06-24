@@ -5,6 +5,10 @@ file = "config/yosbr/config/ferritecore.mixin.properties"
 hash = "1fbbea658d8af2a751857e70cf2d5930a24490cc4c24f8db9b49630a818b895c"
 
 [[files]]
+file = "config/yosbr/config/fuji/config.json"
+hash = "fc50b918af7e01fed0c14cd3e5d2c398a1ee2a7652b8105886b18bf88a9d6d38"
+
+[[files]]
 file = "config/yosbr/config/vmp.properties"
 hash = "170243bcea72030e12b4c7dfe82abd4b17413457d74fa2964a545e769c2791d6"
 
