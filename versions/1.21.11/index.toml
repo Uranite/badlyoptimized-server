@@ -23,6 +23,11 @@ hash = "e1b4cb1015dfe0e0cbe2da4fd30cd0948de757d08259cb5724e9448778e64449"
 metafile = true
 
 [[files]]
+file = "mods/easyauth.pw.toml"
+hash = "782f57afa2b34aa59850a984ca846af48599f107ed3a10d3ff62e850a42788dd"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "2ccce9c28059ea90a5457771de06a69b0a2d1f06d48f8add48a38f1a2307da3c"
 metafile = true
