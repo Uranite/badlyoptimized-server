@@ -1,0 +1,13 @@
+name = "Badly Optimized"
+author = "Yiss"
+version = "1.0.0+26.2.fabric"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "1e57f87eecd39da8917e79f27fa5bea9f24d4c81538f82b8b321577937e754c6"
+
+[versions]
+fabric = "0.19.3"
+minecraft = "26.2"

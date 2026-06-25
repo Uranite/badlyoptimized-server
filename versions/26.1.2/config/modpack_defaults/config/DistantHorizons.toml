@@ -1,9 +1,0 @@
-_version = 4
-
-[server]
-	realTimeUpdateDistanceRadiusInChunks = 128
-
-[client]
-		[client.advanced.graphics]
-			[client.advanced.graphics.quality]
-				lodChunkRenderDistanceRadius = 128
