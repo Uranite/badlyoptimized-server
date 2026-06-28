@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/modpack_defaults/config/DistantHorizons.toml"
-hash = "2104209850044a0be6fc4471765074ac192905a1d8da35d5f0460a5e6d1f0c85"
-
-[[files]]
 file = "config/modpack_defaults/config/EasyAuth/extended.conf"
 hash = "6c7fcc6f3695cb0427b7953bb168fc8764755b94f86556162d3371dc749da146"
 

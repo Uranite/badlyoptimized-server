@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/modpack_defaults/config/DistantHorizons.toml"
-hash = "2104209850044a0be6fc4471765074ac192905a1d8da35d5f0460a5e6d1f0c85"
-
-[[files]]
 file = "config/modpack_defaults/config/EasyAuth/extended.conf"
 hash = "6c7fcc6f3695cb0427b7953bb168fc8764755b94f86556162d3371dc749da146"
 
@@ -81,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/geyser.pw.toml"
-hash = "614ad60a6886d82f11fa3d28db3ff85340d8a493ff4746f0c0f8f92aaf6285bb"
+hash = "e28df2580f1f323ce589abff805c92c1e24427dd6e5998da60afe0a2ba9f8729"
 metafile = true
 
 [[files]]
@@ -101,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "a24e0d27caebc57fd0ec83f262d96509c101c3213547a4cb0cd8ee96db70c0ce"
+hash = "2a2992c2bd23982f35564df11e31325bd4320171b5185a3247409533be9f115c"
 metafile = true
 
 [[files]]
@@ -181,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/viaversion.pw.toml"
-hash = "e5be4bb4a384739740aaca52f9afc634f2f8f670e00f86f749e28ecb239ce39b"
+hash = "ca543bc893b1a38f7647d5dd1a20e9f0f2ad0d6876e9c062766d54fb6894867c"
 metafile = true
 
 [[files]]
