@@ -1,13 +1,13 @@
 name = "C2ME OpenCL Acceleration Module"
-filename = "c2me-fabric-opts-accel-opencl-mc26.2-0.4.2-alpha.0.8.jar"
+filename = "c2me-fabric-opts-accel-opencl-mc26.2-0.4.2-alpha.0.9.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/qtPMklut/versions/kFCy6bpH/c2me-fabric-opts-accel-opencl-mc26.2-0.4.2-alpha.0.8.jar"
+url = "https://cdn.modrinth.com/data/qtPMklut/versions/OmrLj59Z/c2me-fabric-opts-accel-opencl-mc26.2-0.4.2-alpha.0.9.jar"
 hash-format = "sha512"
-hash = "1cef05bc1529aa80101b67937d4bce448b17c8705824be13e215510f309f140199a5f604e350b0f443b7141b86a1bc0053fd19bbb3f84fe17c2436433bed039c"
+hash = "465a1dfd825a12c7fd02df6bc1eb2abdd16d7b93164d5d3ef950627cb5a1578c2edf2c097c365ca7cf23f8b351e3563467a6276e067a59752d0a025f871237d5"
 
 [update]
 [update.modrinth]
 mod-id = "qtPMklut"
-version = "kFCy6bpH"
+version = "OmrLj59Z"
