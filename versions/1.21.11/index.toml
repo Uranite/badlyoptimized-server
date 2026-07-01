@@ -14,7 +14,7 @@ hash = "1fbbea658d8af2a751857e70cf2d5930a24490cc4c24f8db9b49630a818b895c"
 
 [[files]]
 file = "config/modpack_defaults/config/fuji/config.json"
-hash = "fc50b918af7e01fed0c14cd3e5d2c398a1ee2a7652b8105886b18bf88a9d6d38"
+hash = "85bf125f511f20ed67382620fb29ec7e8b95bb4aa839e923c0fb07861ba9bc56"
 
 [[files]]
 file = "config/modpack_defaults/config/vmp.properties"
@@ -27,12 +27,12 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-ocl.pw.toml"
-hash = "9f655bc1c411625f2de33c59ca61bc24a38ea82ea51c41efa7840ec77b43068f"
+hash = "f199ea5262930276747054463fb90229eee2b141f3fd97105dbe5f0af6c82102"
 metafile = true
 
 [[files]]
 file = "mods/configmanager.pw.toml"
-hash = "7c70b21d6bc0fa34c3a06c57aadeb42b2a4b94905ad05c147f6e6b040c24fe24"
+hash = "f64921b93d74f1a489468fe600c0be6ca4602bac7399d7e34c9dedef2f0624e9"
 metafile = true
 
 [[files]]
@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/easyauth.pw.toml"
-hash = "782f57afa2b34aa59850a984ca846af48599f107ed3a10d3ff62e850a42788dd"
+hash = "697bbcd8669dfab0c0c858f4c843f2979521474b8d69ef93f9fbfed7002bda29"
 metafile = true
 
 [[files]]
@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "57fb1ac1da006185c0f509d3c4b5a3e0ebba2f3e572559a19a0984f6f23457f6"
+hash = "fbbc3a196f593ac81c0b8f8c0a6b148e88767805ffb846e9ca5409fb006c4aa1"
 metafile = true
 
 [[files]]
@@ -157,12 +157,12 @@ metafile = true
 
 [[files]]
 file = "mods/tectonic.pw.toml"
-hash = "f19a743dcab0927ec66da55e57993563fc539c3b50733104152da71c18f8abf4"
+hash = "c38da411c568dabdc6ca978d9281f8cc37d4fa18f7e38d3e805e52e92f5d1a16"
 metafile = true
 
 [[files]]
 file = "mods/terralith.pw.toml"
-hash = "a72981ee11a90659112ddd8ef00554df2b51e9c3aabd89a66e8a1a8b94eb5b3a"
+hash = "0fbe0ecebf881734f581c84b631e72c504d6c373e7d7334aa625f801337afb68"
 metafile = true
 
 [[files]]

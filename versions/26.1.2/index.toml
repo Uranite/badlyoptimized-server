@@ -14,7 +14,7 @@ hash = "1fbbea658d8af2a751857e70cf2d5930a24490cc4c24f8db9b49630a818b895c"
 
 [[files]]
 file = "config/modpack_defaults/config/fuji/config.json"
-hash = "fc50b918af7e01fed0c14cd3e5d2c398a1ee2a7652b8105886b18bf88a9d6d38"
+hash = "85bf125f511f20ed67382620fb29ec7e8b95bb4aa839e923c0fb07861ba9bc56"
 
 [[files]]
 file = "config/modpack_defaults/config/vmp.properties"
@@ -22,17 +22,17 @@ hash = "170243bcea72030e12b4c7dfe82abd4b17413457d74fa2964a545e769c2791d6"
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "298bb7ba6652ce3664375e597c4a2e54510e840d22ac656fefc36096335c9202"
+hash = "a3fb99ca6203ebc361c23a101a28b9ab17402e043164c603431a98a063f1d77e"
 metafile = true
 
 [[files]]
 file = "mods/c2me-ocl.pw.toml"
-hash = "5acd6c910da754601022afe74e53f081c978a780a1e20819c3574a18f24d5b4d"
+hash = "c5c9c1dbf021cad27d895be3b41305c1268471ecc4f210254fe54761d7a04a2e"
 metafile = true
 
 [[files]]
 file = "mods/configmanager.pw.toml"
-hash = "404b2ef9032434f6b0c7d70920c557f06b774a0455325481e1b7304eaf03934e"
+hash = "7e8a8ba96de162da3b577afbe8d880b418b76b09c42c6050fa3167fedc80c018"
 metafile = true
 
 [[files]]
@@ -42,12 +42,12 @@ metafile = true
 
 [[files]]
 file = "mods/easyauth.pw.toml"
-hash = "a5f86e4aa224b91f2ac620f4e5316254c00b3f3e0b8265d6820f4354d2a0156a"
+hash = "485799afa1ba9154f4ae8427dc36de3d0f3c3dc931cbcd0c98166a96b888cb0f"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "cab10ce7de1bd313d5dc6753f402f1123ff7571373ef185675c862e7cbf4369e"
+hash = "3134dab02ee45b29c86d8ef5d7cd566088c570bc6901eec78a62b473319b9d07"
 metafile = true
 
 [[files]]
@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/geyser.pw.toml"
-hash = "e28df2580f1f323ce589abff805c92c1e24427dd6e5998da60afe0a2ba9f8729"
+hash = "531126264525b81141bd2c59fb7d90f138a8a32fef58023a8f1a23b209c44838"
 metafile = true
 
 [[files]]
@@ -157,17 +157,17 @@ metafile = true
 
 [[files]]
 file = "mods/tectonic.pw.toml"
-hash = "7ce768839a525e28d1207187f6269214c834be312d520d8cbda2a2c263ec1972"
+hash = "3fbe7bc0224224b5af1d2f6d0423ff8651474b76fce5968c2f98349be0c7fbfb"
 metafile = true
 
 [[files]]
 file = "mods/terralith.pw.toml"
-hash = "5d451fb0bab301ca1f7f99ae698e13b8c6827dda54704204cfe0e63b420e9cfa"
+hash = "48ebd056b704cb920571d3ef7d506ca93e59e2187bd78de1e49fca4f463740b1"
 metafile = true
 
 [[files]]
 file = "mods/viabackwards.pw.toml"
-hash = "f9e3dfccdc6fb1857218b884b54066edf24cd55c31bfb0de9039b3c8d4bf775c"
+hash = "10d37ba1c83d83bb1a073c7adf99b0b6fb7b7aeb0da697394f00503a3a396edf"
 metafile = true
 
 [[files]]
@@ -177,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/viaversion.pw.toml"
-hash = "ca543bc893b1a38f7647d5dd1a20e9f0f2ad0d6876e9c062766d54fb6894867c"
+hash = "0ac28c48cb5e05384b93140e6cbfe743385a8096374de0a01c5e4842d8f3fab8"
 metafile = true
 
 [[files]]
