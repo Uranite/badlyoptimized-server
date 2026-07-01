@@ -14,7 +14,7 @@ hash = "1fbbea658d8af2a751857e70cf2d5930a24490cc4c24f8db9b49630a818b895c"
 
 [[files]]
 file = "config/modpack_defaults/config/fuji/config.json"
-hash = "fc50b918af7e01fed0c14cd3e5d2c398a1ee2a7652b8105886b18bf88a9d6d38"
+hash = "85bf125f511f20ed67382620fb29ec7e8b95bb4aa839e923c0fb07861ba9bc56"
 
 [[files]]
 file = "config/modpack_defaults/config/vmp.properties"
@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/configmanager.pw.toml"
-hash = "404b2ef9032434f6b0c7d70920c557f06b774a0455325481e1b7304eaf03934e"
+hash = "7e8a8ba96de162da3b577afbe8d880b418b76b09c42c6050fa3167fedc80c018"
 metafile = true
 
 [[files]]
@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "fdc6309bf3420b7e358737b05877335191021e8a2376def243deb0e521797166"
+hash = "7e69c1869ee0d211bd0e801859950077af1b2a0cc1f1f73f7e08927d0da86563"
 metafile = true
 
 [[files]]
@@ -116,8 +116,23 @@ hash = "223a48cab4fc6cfa44ce60e70b59583c1a8192019a2716ae3a744a9187b35560"
 metafile = true
 
 [[files]]
+file = "mods/skinsrestorer.pw.toml"
+hash = "13482ae06129e80ac21fc2397315a3e6b8ef985c7bacb938fd3f4c9be42e66dd"
+metafile = true
+
+[[files]]
+file = "mods/squaremap.pw.toml"
+hash = "798b2e1aeee88e52cc70cca4c51134639cebd214a3f52e0a0913e51b0b1adbe3"
+metafile = true
+
+[[files]]
 file = "mods/structure-layout-optimizer.pw.toml"
 hash = "6801adb48ee85a21c7c4992625c34a751197382cb952dd25082d145a37de84fb"
+metafile = true
+
+[[files]]
+file = "mods/tabtps.pw.toml"
+hash = "88ca359dad63f9be2e1b26e61b9ca6770952009854f47b061f3ec5cb82cfe42c"
 metafile = true
 
 [[files]]
@@ -127,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/viabackwards.pw.toml"
-hash = "f9e3dfccdc6fb1857218b884b54066edf24cd55c31bfb0de9039b3c8d4bf775c"
+hash = "10d37ba1c83d83bb1a073c7adf99b0b6fb7b7aeb0da697394f00503a3a396edf"
 metafile = true
 
 [[files]]
@@ -137,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/viaversion.pw.toml"
-hash = "ca543bc893b1a38f7647d5dd1a20e9f0f2ad0d6876e9c062766d54fb6894867c"
+hash = "0ac28c48cb5e05384b93140e6cbfe743385a8096374de0a01c5e4842d8f3fab8"
 metafile = true
 
 [[files]]
