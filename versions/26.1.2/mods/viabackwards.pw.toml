@@ -1,13 +1,13 @@
 name = "ViaBackwards"
-filename = "ViaBackwards-5.10.1-SNAPSHOT.jar"
+filename = "ViaBackwards-5.11.1-SNAPSHOT.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/NpvuJQoq/versions/KXqWliHi/ViaBackwards-5.10.1-SNAPSHOT.jar"
+url = "https://cdn.modrinth.com/data/NpvuJQoq/versions/ArZIav7i/ViaBackwards-5.11.1-SNAPSHOT.jar"
 hash-format = "sha512"
-hash = "b8e71a9bf651b48d69c99f5f8a81aad8d6516a021a6dc947ccbc523bbab91860afdb14a5122529dd7ed44c3270d69dd5797c800b2ed2c9a17859315737301374"
+hash = "c397eb35f660785916cc0a4fb130124028b38e459b6376f2d71b0c57327708f64d6181d8b0032504bcc1c9cdd027b05c076aacfaf6503835b9647fda5f94ea31"
 
 [update]
 [update.modrinth]
 mod-id = "NpvuJQoq"
-version = "KXqWliHi"
+version = "ArZIav7i"
