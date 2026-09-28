@@ -22,12 +22,12 @@ hash = "170243bcea72030e12b4c7dfe82abd4b17413457d74fa2964a545e769c2791d6"
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "032ed9d0cfe4b7b964a56d149a5d2487f6a77d5a5a2e47857bc25400a0619903"
+hash = "2f528064285af8c6da4aaa18913c40acaf8992110754196bf8cc77ef75a32c23"
 metafile = true
 
 [[files]]
 file = "mods/c2me-ocl.pw.toml"
-hash = "101772a4aaa5b9d7baab820bf941192003a331dff3aa6fe62edcc327683f8809"
+hash = "7a64d12ebd1cc9ec7a8564009b9b0046ac0f52a8d0da7d5293b23c4d7881ddbe"
 metafile = true
 
 [[files]]
@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "e052cb3685baecae837c574cebd658ebc54ededf24186bb152194a78b7eded7d"
+hash = "f95f89574cacc8db2b2ea06095d9db909085862f93c4e63e9b6e4e74ee0583d8"
 metafile = true
 
 [[files]]
@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "fed9bdaac0173f3cab2692f538441afda1e2cd46c6f6363790b424c009e34e03"
+hash = "46c13077e518b312d993a6853c3cd046b724cfc48664481ec0b651ed308aa292"
 metafile = true
 
 [[files]]
@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/fuji.pw.toml"
-hash = "37190cd3d537dee7748cdbf3233f0f7f8bc91e1fa48e9f37ff64d972da0a073d"
+hash = "f5dc5864c21eb986d017beff92c5dcdce029af562f4a83899769d3a80b204fbb"
 metafile = true
 
 [[files]]
@@ -97,12 +97,12 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "6b55813a43e5fb8df2187861906ce0527034a4237370b8d7d083253dd6a25fbe"
+hash = "86da04176ebffd039db432d8af7792f7b1399dcefdc72e377cc5f23bdb1ade8b"
 metafile = true
 
 [[files]]
 file = "mods/luckperms.pw.toml"
-hash = "99811c67881579897393b3927dfb3edf708713adb5702fda8e231bfcb4c28abb"
+hash = "abaff630ec5a2f28ada62238b81a05313d5609282fa182ca64ba1bab7953d9ee"
 metafile = true
 
 [[files]]
@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "8445070cb77093b7e6537e687c2774bcca50bc32f753d47fc04f8d5f2534b432"
+hash = "146b4f68307c3613e7883ad04eb50b7e0866a0564b42b2dc067b9386d9af0872"
 metafile = true
 
 [[files]]
@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/squaremap.pw.toml"
-hash = "f6bd846e4bf155b2f751c56ba3a51ded7cf63e388fe91613e84af287c7a2a2b8"
+hash = "e5d59465b2cc50c5236ce4c8a47e71e966227fa72939732c19222e43730110ec"
 metafile = true
 
 [[files]]
@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/tectonic.pw.toml"
-hash = "a45e9c7820dc90cd4c9b4446002f09d5fc39414dfcf9fbaf7f718542e75b9474"
+hash = "f1a909d7185e1195b3b7e92d025b8145f5457f8ed58ab5ea608b128be20477ca"
 metafile = true
 
 [[files]]
@@ -167,17 +167,17 @@ metafile = true
 
 [[files]]
 file = "mods/viabackwards.pw.toml"
-hash = "a5acb0c58780bc380f84db642f710d3a97fad1af2575c5cbf4c14c7723f2b7bf"
+hash = "d88027c342655221f2ed69784c7a7bb399da0169a3180fe457145e47e629aa6d"
 metafile = true
 
 [[files]]
 file = "mods/viafabric.pw.toml"
-hash = "dedd99d428d5b3138a4235d6e4d3d3013ccc7ed0d332fc53a0eadfcc9066c3bd"
+hash = "5411981d04f4226ea2f0e9c170eb2b6dc104df345a2966c0078fe44cc55dde09"
 metafile = true
 
 [[files]]
 file = "mods/viaversion.pw.toml"
-hash = "10e8a52c78792683b52cadf05e2da382de8d9b5249ecaf589c81d2fa2c2afaf5"
+hash = "aef1185fdcfc95a41fe3dd2991f7261eb65ff04a48672f62e779177e73a06d25"
 metafile = true
 
 [[files]]
@@ -187,5 +187,5 @@ metafile = true
 
 [[files]]
 file = "mods/zfastnoise.pw.toml"
-hash = "4ee577cb1754177f06bde2bdfe99cb6320251d2b9f87400dbb586e87286c8ba3"
+hash = "0569928f0e8f6423ee586ca85088e64aa5a2537afa6fab9d503305f87444fef4"
 metafile = true
