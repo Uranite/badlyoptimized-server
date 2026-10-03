@@ -22,7 +22,7 @@ hash = "170243bcea72030e12b4c7dfe82abd4b17413457d74fa2964a545e769c2791d6"
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "67cd707b00e8a67a867a53bfb4da7a596ac80f3ff4bcbcd76fbfd40780600453"
+hash = "037a156dff9609bea2f09ff635fccb34df6814ca0383a506dfcaaa39622e27d9"
 metafile = true
 
 [[files]]
@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "bf7197e8a64d3e69ce574bd7d8223ffa399e0786d416c8afb93e1be9320c4a3e"
+hash = "8cfd619edd7190fdd7f048bc7815193699d0583857f988e421b8e7816167ad25"
 metafile = true
 
 [[files]]
@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/krypton.pw.toml"
-hash = "d5060b22fa47d5d56e0f4617904731e9d397d1ba104320b7ec8e59f7ca0700a7"
+hash = "4d8432eed6984a86acf6c9f056755b3f9082eb8fcb5b3f37e96498e7871e40c9"
 metafile = true
 
 [[files]]
@@ -112,12 +112,12 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "3db1b61528d0fdd908f1fe57685bbc49cdbe496bfe0e349a0280334444193c73"
+hash = "54019b98e621d0ab792d7a2de0f8f2714660e367790b17ffa0ac902344166396"
 metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "08fa9e83213f748d2733b358dc5cf80ed2fa82143c6124f7879542c75117b870"
+hash = "c3dbbcbc00ba789c38a7fe9081336e302fae3423417e2fd9da73cec385ba9c61"
 metafile = true
 
 [[files]]
@@ -172,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/viafabric.pw.toml"
-hash = "5411981d04f4226ea2f0e9c170eb2b6dc104df345a2966c0078fe44cc55dde09"
+hash = "ce8a4d849116a4fc900539dc2cc2c953d0dbe92acf572d2c019bbe5dca4c5a5f"
 metafile = true
 
 [[files]]
@@ -187,5 +187,5 @@ metafile = true
 
 [[files]]
 file = "mods/zfastnoise.pw.toml"
-hash = "254c71d7e0ce74ca91e070d2dacff9d9f4deffe17bbda20449962741568fab44"
+hash = "9340ec50bcad12369714aa7975a8e53d6fd20473f6f4a65c18f5eaeaaab8295a"
 metafile = true
